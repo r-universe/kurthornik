@@ -1,5 +1,85 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ISOcodes"]
+	path = ISOcodes
+	url = https://github.com/cran/ISOcodes
+[submodule "NLP"]
+	path = NLP
+	url = https://github.com/cran/NLP
+[submodule "NLPutils"]
+	path = NLPutils
+	url = https://github.com/cran/NLPutils
+[submodule "OAIHarvester"]
+	path = OAIHarvester
+	url = https://github.com/cran/OAIHarvester
+[submodule "RKEA"]
+	path = RKEA
+	url = https://github.com/cran/RKEA
+[submodule "RKEAjars"]
+	path = RKEAjars
+	url = https://github.com/cran/RKEAjars
+[submodule "RWeka"]
+	path = RWeka
+	url = https://github.com/cran/RWeka
+[submodule "RWekajars"]
+	path = RWekajars
+	url = https://github.com/cran/RWekajars
+[submodule "Rpoppler"]
+	path = Rpoppler
+	url = https://github.com/cran/Rpoppler
+[submodule "Unicode"]
+	path = Unicode
+	url = https://github.com/cran/Unicode
+[submodule "W3CMarkupValidator"]
+	path = W3CMarkupValidator
+	url = https://github.com/cran/W3CMarkupValidator
+[submodule "cclust"]
+	path = cclust
+	url = https://github.com/cran/cclust
+[submodule "chron"]
+	path = chron
+	url = https://github.com/cran/chron
+[submodule "clue"]
+	path = clue
+	url = https://github.com/cran/clue
+[submodule "date"]
+	path = date
+	url = https://github.com/cran/date
+[submodule "movMF"]
+	path = movMF
+	url = https://github.com/cran/movMF
+[submodule "openNLP"]
+	path = openNLP
+	url = https://github.com/cran/openNLP
+[submodule "openNLPdata"]
+	path = openNLPdata
+	url = https://github.com/cran/openNLPdata
+[submodule "oz"]
+	path = oz
+	url = https://github.com/cran/oz
+[submodule "relations"]
+	path = relations
+	url = https://github.com/cran/relations
+[submodule "skmeans"]
+	path = skmeans
+	url = https://github.com/cran/skmeans
+[submodule "slam"]
+	path = slam
+	url = https://github.com/cran/slam
+[submodule "tau"]
+	path = tau
+	url = https://github.com/cran/tau
+[submodule "textcat"]
+	path = textcat
+	url = https://github.com/cran/textcat
+[submodule "tm.plugin.mail"]
+	path = tm.plugin.mail
+	url = https://github.com/cran/tm.plugin.mail
+[submodule "tseries"]
+	path = tseries
+	url = https://github.com/cran/tseries
+[submodule "wordnet"]
+	path = wordnet
+	url = https://github.com/cran/wordnet
