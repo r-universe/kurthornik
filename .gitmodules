@@ -35,6 +35,9 @@
 [submodule "W3CMarkupValidator"]
 	path = W3CMarkupValidator
 	url = https://github.com/cran/W3CMarkupValidator
+[submodule "bindata"]
+	path = bindata
+	url = https://github.com/cran/bindata
 [submodule "cclust"]
 	path = cclust
 	url = https://github.com/cran/cclust
