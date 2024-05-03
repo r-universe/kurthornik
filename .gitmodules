@@ -50,6 +50,9 @@
 [submodule "date"]
 	path = date
 	url = https://github.com/cran/date
+[submodule "mlbench"]
+	path = mlbench
+	url = https://github.com/cran/mlbench
 [submodule "movMF"]
 	path = movMF
 	url = https://github.com/cran/movMF
